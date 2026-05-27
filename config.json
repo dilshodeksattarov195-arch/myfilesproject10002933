@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersender",
+        "uuid": 22760080,
+        "checksum": "xiko30z"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
